@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrBison212.
-- 👀 I’m interested in coding but also with working with my hands.
-- 🌱 I’m currently working on my associate's in Web Development.
-- 💞️ I’m looking to collaborate on anything really; I really wanna get real life experience with code.
+- 👀 I’m love coding and gaming
+- 🌱 I’m currently working on my associate's in Web Development; Also a Low-Code Applications Developer
 - 📫 How to reach me. My email: judebissoon212@gmail.com
 
 <!---
