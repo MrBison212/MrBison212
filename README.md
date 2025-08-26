@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jude Bissoon!
 - 👀 I’m love coding and gaming. Gamertag --> @MrBison212
-- 🌱 I’m currently working on my associate's in Web Development; Also a Low-Code Applications Developer
-- 📫 How to reach me. My email: judebissoon212@gmail.com
+- 🌱 
+- 📫 How to reach me:
 
 <!---
 MrBison212/MrBison212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
